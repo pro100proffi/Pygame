@@ -2,7 +2,6 @@
 
 
 ## Using the application
-* Clone github repository
 * Download required dependencies: ```$ pip install -r requirements.txt```
 * ```$ python main.py```
 
