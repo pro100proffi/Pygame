@@ -1,6 +1,5 @@
 # Pygame-Platformer-Shooter
-First major project on Python
-* View a demo video [here](https://www.youtube.com/watch?v=uwWRv9PNqWU)
+
 
 ## Using the application
 * Clone github repository
